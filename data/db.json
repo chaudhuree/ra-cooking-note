@@ -38,26 +38,14 @@
       "cookingTime": "35 minutes"
     },
     {
-      "title": "Egg Omlet",
+      "title": "test",
       "ingredients": [
-        "Egg",
-        "Oil",
-        "Spice",
-        "Salt"
+        "a",
+        "b"
       ],
-      "method": "search on youtube",
-      "cookingTime": "10 minutes",
-      "id": "betOUA3"
-    },
-    {
-      "title": "adfd",
-      "ingredients": [
-        "adsfsd",
-        "fadsf"
-      ],
-      "method": "dregh",
+      "method": "not defined",
       "cookingTime": "23 minutes",
-      "id": "5x_gcMC"
+      "id": "nO0MwKU"
     }
   ]
 }
