@@ -36,6 +36,28 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Egg Omlet",
+      "ingredients": [
+        "Egg",
+        "Oil",
+        "Spice",
+        "Salt"
+      ],
+      "method": "search on youtube",
+      "cookingTime": "10 minutes",
+      "id": "betOUA3"
+    },
+    {
+      "title": "adfd",
+      "ingredients": [
+        "adsfsd",
+        "fadsf"
+      ],
+      "method": "dregh",
+      "cookingTime": "23 minutes",
+      "id": "5x_gcMC"
     }
   ]
 }
